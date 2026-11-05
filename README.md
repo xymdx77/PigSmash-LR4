@@ -12,7 +12,7 @@ This template is available under the CC0 license. Feel free to learn from it and
 
 Добавлена локализация
 
-Создан базовый проект Gradle
+Создан базовый проект Gradle!
 
 Добавлена регистрация предмета
 
