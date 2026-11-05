@@ -16,3 +16,5 @@ This template is available under the CC0 license. Feel free to learn from it and
 
 Добавлена регистрация предмета
 
+Добавлена текстура и модель
+
