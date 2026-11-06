@@ -1,24 +1,24 @@
-# PigSmash
+# PigSmash (Кирка-Кувалда)
 
-## Setup
+Модификация для Minecraft 1.21.1 (Fabric), добавляющая новый инструмент — Кирку-Кувалду.
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+## Установка
+1. Установите Fabric Loader для Minecraft 1.21.1.
+2. Скачайте файл `pigsmash-1.0.0.jar` из папки `build/libs`.
+3. Поместите его в папку `.minecraft/mods`.
+4. Запустите игру.
 
-## License
+## Особенности
+- Быстрая добыча камня.
+- Медленная добыча дерева.
+- Кастомная текстура и модель.
+- При нажатии ПКМ выводится сообщение: "Ррррраааа! Кувалда в деле!"
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Команда StoneBros
+Белов Е.Д., Репин Д.Д., Тумаев В.В.
 
-Добавлено описание рецепта
-
-Добавлена локализация
-
-Создан базовый проект Gradle!
-
-Добавлена регистрация предмета
-
-Добавлена текстура и модель
-
-Добавлен рецепт крафта
-
-Добавлен обработчик ПКМ
+## Сборка проекта
+Для сборки проекта используйте команду:
+```bash
+./gradlew build
 
